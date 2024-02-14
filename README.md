@@ -1,7 +1,7 @@
 # tileGame
 
 use pip install requirement.txt to install dependency.<br>
-```pip install requirement.txt```
+```pip install -r requirement.txt```
 
 use python3 tileGame.py to run the game<br>
 ```python3 tileGame.py```
